@@ -26,8 +26,7 @@ src/
 npm install
 npm start
 
-![Screenshot](cardss.png)
-
+![Screenshot](Appss.png)
 
 🙌 Author
 Srushti Kolage
